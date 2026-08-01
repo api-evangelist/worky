@@ -1,0 +1,16 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.worky.mx/
+status_page: https://status.worky.mx/
+status_page_platform: UptimeRobot
+status_page_notes: Public service-status page with 24h/7d/30d/90d uptime, status update
+  history, and email subscription. Linked from the worky.mx site footer.
+versioning: null
+deprecation: null
+sla: null
+notes: Worky is a Mexican HR + payroll SaaS with no public developer API surface;
+  no versioning or deprecation policy is published. The incident-report channel for
+  customers is soporte@worky.mx, the status page, and the Help Center (per the
+  information-security policy at
+  https://www.worky.mx/politica-de-seguridad-de-la-informaci%C3%B3n).
+deprecated_operations: []

@@ -1,0 +1,38 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.worky.mx/politica-de-seguridad-de-la-informaci%C3%B3n
+standards:
+- id: iso-27001
+  conforms: true
+  evidence: 'Published information-security policy states the ISMS controls are framed
+    in / aligned to ISO/IEC 27001 ("Los controles descritos se enmarcan en el estándar
+    ISO/IEC 27001"; "Programa de seguridad alineado a ISO/IEC 27001; auditorías internas
+    y externas regulares"). Alignment claim, not a published certification.'
+- id: lfpdppp-mexico
+  conforms: true
+  evidence: Security policy section 3 claims compliance with the Ley Federal de Protección
+    de Datos Personales en Posesión de los Particulares (Mexico's federal data-protection
+    law), with masking, encryption, and anonymization procedures.
+- id: cfdi-4.0
+  conforms: true
+  evidence: Product publishes unlimited CFDI 4.0 payroll stamping (timbrado de nómina
+    CFDI 3.3/4.0) per https://www.worky.mx/timbrado-de-nomina-33-40 — Mexico SAT
+    e-invoice standard for payroll receipts.
+- id: nom-035-stps
+  conforms: true
+  evidence: Dedicated NOM-035 product surface (https://www.worky.mx/nom-035) for
+    the Mexican workplace psychosocial-risk standard NOM-035-STPS-2018.
+- id: tls-1.3
+  conforms: true
+  evidence: Security policy states all client-platform communication is encrypted
+    with HTTPS TLS 1.3; confirmed by live TLS probe (security/worky-domain-security.yml).
+- id: oauth2
+  conforms: false
+  evidence: No public developer API or OAuth surface published; the private backend
+    at api.worky.mx challenges with JWT (www-authenticate JWT realm="api").
+- id: openid-connect
+  conforms: false
+  evidence: No /.well-known/openid-configuration on worky.mx or api.worky.mx (404).
+- id: rfc9116-security-txt
+  conforms: false
+  evidence: /.well-known/security.txt returns 404 on www.worky.mx and api.worky.mx.

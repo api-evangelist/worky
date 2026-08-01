@@ -1,0 +1,175 @@
+# Provenance: harvested by the API Evangelist enrichment pipeline
+# generated: 2026-07-21
+# method: searched
+# source: https://www.worky.mx/llms.txt
+# note: Worky serves /llms.txt as an HTML-wrapped page (content-type text/html);
+#       the llms.txt markdown content below was extracted verbatim from the page body.
+
+# Worky
+
+> Worky es la plataforma de RH y nómina para la empresa mexicana que no puede fallar. Unifica operación, talento y nómina en un solo sistema — desde el alta del colaborador hasta el timbrado y la dispersión — con cumplimiento normativo garantizado e inteligencia artificial operativa integrada.
+
+Worky está dirigido a PyMEs y empresas medianas en México que gestionan nómina compleja, múltiples registros patronales, y equipos de RH que hoy operan con sistemas fragmentados, hojas de cálculo o software legacy (Aspel NOI, CONTPAQi). Worky compite directamente con Runa, Buk, Factorial, Sesame HR y Zentric.
+
+## Inicio y conversión
+
+- [Inicio](https://www.worky.mx)
+- [Qué es Worky](https://www.worky.mx/que-es-worky)
+- [Agendar demo](https://www.worky.mx/agendar-demo)
+- [Ver demo interactiva](https://www.worky.mx/ver-demo-interactiva)
+- [Precios y planes](https://www.worky.mx/precios-y-planes)
+- [Comprar ahora](https://www.worky.mx/comprar-ahora)
+- [Garantía Cero Multas](https://www.worky.mx/garantia-cero-multas)
+- [Garantía de Implementación](https://www.worky.mx/garantia-de-implementacion)
+- [Enterprise](https://www.worky.mx/enterprise)
+
+## Gestión de Nómina
+
+Sistema de nómina que calcula, timbra y dispersa con conexión directa a IMSS, SUA e INFONAVIT. Validación antes del cierre, timbrado ilimitado CFDI 4.0, layouts bancarios, control financiero y herramientas avanzadas para PTU, aguinaldo y liquidaciones.
+
+- [Sistema de Nómina](https://www.worky.mx/sistema-de-nomina)
+- [Seguridad Social](https://www.worky.mx/seguridad-social)
+- [Herramientas Avanzadas](https://www.worky.mx/herramientas-avanzadas)
+- [Control Financiero de Nómina](https://www.worky.mx/control-financiero-de-nomina)
+- [Maquila de Nómina](https://www.worky.mx/maquila-nomina)
+- [Nómina en Línea](https://www.worky.mx/nomina-en-linea)
+- [Gestión de Nómina](https://www.worky.mx/gestion-de-nomina)
+- [Prenómina](https://www.worky.mx/prenomina)
+- [Timbrado de Nómina CFDI 3.3 / 4.0](https://www.worky.mx/timbrado-de-nomina-33-40)
+- [Dispersión de Nómina](https://www.worky.mx/dispersion-de-la-nomina)
+- [Recibos de Nómina Digitales](https://www.worky.mx/recibos-de-nomina-digitales)
+- [Impuesto sobre la Nómina](https://www.worky.mx/impuesto-sobre-la-nomina)
+- [Reparto de Utilidades PTU](https://www.worky.mx/reparto-de-utilidades-ptu)
+- [SUA — Sistema Único de Autodeterminación](https://www.worky.mx/sua-sistema-unico-de-autodeterminacion)
+- [Cumplimiento IMSS e INFONAVIT](https://www.worky.mx/cumplimiento-imss-infonavit)
+- [Seguridad Social y Cálculo de Nómina](https://www.worky.mx/seguridad-social-y-calculo-de-nomina)
+- [Layouts bancarios: BBVA](https://www.worky.mx/layout-bancario-bbva), [Banorte](https://www.worky.mx/layout-bancario-banorte), [Santander](https://www.worky.mx/layout-bancario-santander), [HSBC](https://www.worky.mx/layout-bancario-hsbc), [Citibanamex](https://www.worky.mx/layout-bancario-citibanamex)
+- [Firma Digital de Recibos y Documentos](https://www.worky.mx/firma-digital-de-recibos-de-n%C3%B3mina-y-documentos)
+
+## Gestión Operativa
+
+Control de asistencia y turnos con independencia de módulos: turnos rotativos, asistencia libre para administrativos, cruce turno+checada para incidencias y horas extra. Reloj checador con reconocimiento facial, geolocalización, QR, app móvil, WhatsApp y operación offline.
+
+- [Reloj Checador Digital](https://www.worky.mx/reloj-checador-digital)
+- [Control de Incidencias para Nómina](https://www.worky.mx/control-de-incidencias-para-nomina)
+- [Ausentismos Laborales](https://www.worky.mx/ausentismos-laborales)
+- [Incidencias Laborales](https://www.worky.mx/gestion-incidencias-y-solicitudes)
+- [Control de Asistencia](https://www.worky.mx/control-de-asistencia)
+- [Registro de Asistencia Digital](https://www.worky.mx/registro-asistencia-digital)
+- [App Reloj Checador](https://www.worky.mx/app-reloj-checador)
+- [Reloj Checador Facial](https://www.worky.mx/reloj-checador-facial)
+- [Reloj Checador Remoto](https://www.worky.mx/reloj-checador-remoto)
+- [Asistencia GPS Empleados](https://www.worky.mx/asistencia-gps-empleados)
+- [Control Horario de Trabajo](https://www.worky.mx/control-horario-de-trabajo)
+- [Jornada Laboral](https://www.worky.mx/jornada-laboral)
+- [Solicitud de Vacaciones](https://www.worky.mx/solicitud-de-vacaciones)
+- [Gestión de Vacaciones y Ausencias](https://www.worky.mx/gestion-de-vacaciones-ausencias)
+
+## Gestión de Personal
+
+Centraliza expediente digital, organigrama, documentos, onboarding y estructura. Cada alta, baja o cambio fluye hacia operación y nómina sin doble captura.
+
+- [Directorio y Organigrama](https://www.worky.mx/directorio-y-organigrama)
+- [Control de Plantilla Laboral](https://www.worky.mx/control-de-plantilla-laboral)
+- [Cultura y Beneficios Laborales](https://www.worky.mx/cultura-y-beneficios-laborales)
+- [Expediente del Trabajador](https://www.worky.mx/expediente-del-trabajador)
+- [Portal del Colaborador](https://www.worky.mx/portal-del-colaborador)
+- [Kiosko RH](https://www.worky.mx/kiosko-rh)
+- [Firma Electrónica con Validez Legal](https://www.worky.mx/firma-electronica-validez-legal)
+- [Firma Digital para Contratos](https://www.worky.mx/firma-digital-para-firma-de-contratos)
+- [Comunicados Internos](https://www.worky.mx/comunicados-internos)
+- [Encuesta de Clima Laboral](https://www.worky.mx/encuesta-clima-laboral)
+- [NOM-035](https://www.worky.mx/nom-035)
+- [Tabulador Salarial](https://www.worky.mx/tabulador-salarial)
+- [Bandas y Niveles Salariales](https://www.worky.mx/bandas-y-niveles-salariales)
+
+## Gestión de Talento
+
+Une reclutamiento, onboarding, evaluaciones de desempeño y desarrollo en un solo flujo. Las vacantes nacen desde posiciones reales del organigrama; los candidatos avanzan a expediente y nómina sin recaptura.
+
+- [Evaluación de Empleados](https://www.worky.mx/evaluacion-de-empleados)
+- [Reclutamiento de Personal](https://www.worky.mx/reclutamiento-de-personal)
+- [Onboarding de Empleados](https://www.worky.mx/onboarding-empleados)
+- [Onboarding Digital](https://www.worky.mx/onboarding-digital)
+- [Gestión de Vacantes](https://www.worky.mx/gesti%C3%B3n-de-vacantes)
+- [Capacitación y Adiestramiento](https://www.worky.mx/capacitaci%C3%B3n-y-adiestramiento)
+- [Gestión de Talento](https://www.worky.mx/gestion-de-talento)
+- [Bienestar Laboral](https://www.worky.mx/bienestar-laboral)
+- [Rotación de Personal](https://www.worky.mx/rotacion-de-personal)
+
+## Reportería y Analytics
+
+- [Reportes de Recursos Humanos](https://www.worky.mx/reportes-de-recursos-humanos)
+- [Reportes Personalizados — Analytics 500](https://www.worky.mx/reportes-personalizados)
+- [People Analytics](https://www.worky.mx/people-analytics)
+- [Dashboard de Recursos Humanos](https://www.worky.mx/dashboard-de-recursos-humanos)
+- [KPIs de Recursos Humanos](https://www.worky.mx/kpis-de-recursos-humanos)
+- [Indicadores de RH](https://www.worky.mx/indicadores-de-rh)
+- [Dashboard de Asistencia](https://www.worky.mx/reportes-de-rh/dashboard-de-asistencia)
+- [Control de Incidencias RH](https://www.worky.mx/reportes-de-rh/control-de-incidencias-rh)
+- [Horas Extras Dobles y Triples](https://www.worky.mx/reportes-de-rh/horas-extras-dobles-y-triples-en-mexico)
+- [Predicción de Rotación Laboral](https://www.worky.mx/reportes-de-rh/predicci%C3%B3n-de-rotacion-laboral)
+
+## Inteligencia Artificial — SophIA
+
+SophIA es el agente de IA operativa integrado en Worky. Audita cálculos en tiempo real, detecta anomalías en IDSE, genera reportes y ejecuta flujos completos desde lenguaje natural. No es un chatbot: coordina agentes de RH, nómina, cumplimiento y analítica.
+
+- [SophIA — Agente IA](https://www.worky.mx/sophia-agente-ia)
+- [Inteligencia Artificial en RH](https://www.worky.mx/inteligencia-artificial-en-recursos-humanos)
+- [IA para Reclutamiento](https://www.worky.mx/inteligencia-artificial-para-reclutamiento)
+- [RH + IA](https://www.worky.mx/rh-ia)
+
+## Soluciones por industria
+
+- [Manufactura](https://www.worky.mx/industria-manufactura)
+- [Logística](https://www.worky.mx/industria-logistica)
+- [Retail](https://www.worky.mx/industria-retail)
+- [Tecnología](https://www.worky.mx/industria-tecnologia)
+- [Servicios Financieros](https://www.worky.mx/industria-servicios-financieros)
+- [Servicios Profesionales](https://www.worky.mx/industria-servicios-profesionales)
+- [Alimentos y Bebidas](https://www.worky.mx/industria-alimentos-bebidas)
+- [Mercadotecnia](https://www.worky.mx/industria-mercadotecnia)
+
+## Comparativas con competidores
+
+- [Worky vs Runa](https://www.worky.mx/comparativa-worky-runa)
+- [Worky vs Buk](https://www.worky.mx/comparativa-worky-buk)
+- [Worky vs Factorial](https://www.worky.mx/comparativa-worky-factorial)
+- [Worky vs Kenjo](https://www.worky.mx/comparativa-worky-kenjo)
+- [Worky vs Rankmi](https://www.worky.mx/comparativa-worky-rankmi)
+- [Compara Worky](https://www.worky.mx/compara-a-worky)
+
+## Casos de éxito
+
+- [Todos los casos](https://www.worky.mx/casos-de-exito)
+- [MSC — Mediterranean Shipping Company](https://www.worky.mx/caso-de-exito-msc)
+- [Saljamex](https://www.worky.mx/caso-de-exito-saljamex)
+- [Benetton](https://www.worky.mx/caso-de-exito-benetton)
+- [CILSA](https://www.worky.mx/caso-de-exito-cilsa)
+- [Flux Financiera](https://www.worky.mx/caso-de-exito-flux-financiera)
+- [SAPCO](https://www.worky.mx/caso-de-exito-sapco)
+- [SHM](https://www.worky.mx/caso-de-exito-shm)
+
+## Recursos y contenido
+
+- [Blog](https://blog.worky.mx)
+- [Glosario y Normativa Mexicana](https://www.worky.mx/glosario-y-normativa-mexicana)
+- [Ley Federal del Trabajo](https://www.worky.mx/ley-federal-del-trabajo)
+- [Descarga la app](https://www.worky.mx/descarga-la-app)
+- [Descargables](https://www.worky.mx/recursos)
+- [Podcast People Talks](https://www.worky.mx/people-talks-podcast)
+- [Centro de ayuda](https://support.worky.mx/hc/es-419)
+
+## Compañía
+
+- [Sobre nosotros](https://www.worky.mx/conoce-worky)
+- [Distribuidores y aliados](https://www.worky.mx/distribuidores-y-aliados)
+- [Aviso de privacidad](https://www.worky.mx/privacidad)
+- [Términos y condiciones](https://www.worky.mx/terminos-y-condiciones)
+- [Política de seguridad de la información](https://www.worky.mx/politica-de-seguridad-de-la-información)
+
+## Contacto
+
+- Sitio: https://www.worky.mx
+- Demo: https://www.worky.mx/agendar-demo
+- WhatsApp: https://api.whatsapp.com/send/?phone=525551735351

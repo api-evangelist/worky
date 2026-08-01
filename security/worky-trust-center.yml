@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+url: https://www.worky.mx/politica-de-seguridad-de-la-informaci%C3%B3n
+title: Política de Seguridad de la Información
+certifications: []
+frameworks:
+- 'ISO/IEC 27001 (alignment claimed: "Los controles descritos se enmarcan en el estándar
+  ISO/IEC 27001"; internal and external audits — no certificate published)'
+- LFPDPPP (Ley Federal de Protección de Datos Personales en Posesión de los Particulares,
+  Mexico)
+practices:
+  encryption: HTTPS TLS 1.3 in transit; AES symmetric encryption at rest (GCP)
+  authentication: SSO with mandatory 2FA for all staff; least-privilege access reviewed
+    quarterly
+  penetration_testing: Black-box pentests at least twice a year; ethical hacking at
+    least annually
+  business_continuity: Redundant across at least two GCP availability zones; backups
+    in two geographic regions, every 24h, 3-year log retention
+  data_retention: Customer data retained up to 365 days after contract end, then securely
+    destroyed
+  incident_reporting: soporte@worky.mx, status page (https://status.worky.mx/), and
+    Help Center (https://support.worky.mx/hc/es-419)
+evidence:
+- source: https://www.worky.mx/politica-de-seguridad-de-la-informaci%C3%B3n
+  keywords: [iso/iec 27001, auditorías, pruebas de penetración, cifrado, cumplimiento]
+notes: Public information-security policy addressed to external stakeholders — functions
+  as Worky's trust page. No dedicated trust.worky.mx subdomain, no bug-bounty program,
+  no security.txt, and no published certificates (ISO 27001 alignment only).

@@ -1,9 +1,25 @@
 aid: worky
 name: Worky
-description: 'Worky is a company surfaced as a portfolio company of qed-investors and added to the API
-  Evangelist network as a stub for enrichment. Sector: payroll. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Worky is a Mexican HR and payroll SaaS platform for SMBs and mid-market
+  companies that unifies operations, talent, and payroll in one system — from employee
+  onboarding through CFDI 4.0 payroll stamping (timbrado) and salary dispersal — with
+  direct IMSS, SUA, and INFONAVIT connectivity, digital time-clock and attendance,
+  recruiting, performance reviews, people analytics, and an operational AI agent
+  (SophIA). Backed by QED Investors. Worky publishes no public developer API; its
+  backend at api.worky.mx is a private JWT-authenticated service.'
 url: https://raw.githubusercontent.com/api-evangelist/worky/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.worky.mx/hubfs/%5BWS%5D%20Assets/Im%C3%A1genes%20Website%202024/Thumbnails/thumbnail%20-%20home.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +28,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Payroll
+- HR
+- Human Resources
+- Mexico
+- CFDI
+- Attendance
+- Recruiting
+- Benefits
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +48,39 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://worky.mx/
+  url: https://www.worky.mx/
+- type: Blog
+  url: https://blog.worky.mx/
+- type: Support
+  url: https://support.worky.mx/hc/es-419
+- type: Pricing
+  url: https://www.worky.mx/precios-y-planes
+- type: SignUp
+  url: https://www.worky.mx/comprar-ahora
+- type: Login
+  url: https://app.worky.mx/
+- type: TermsOfService
+  url: https://www.worky.mx/terminos-y-condiciones
+- type: PrivacyPolicy
+  url: https://www.worky.mx/privacidad
+- type: StatusPage
+  url: https://status.worky.mx/
+- type: Lifecycle
+  url: lifecycle/worky-lifecycle.yml
+- type: LLMsTxt
+  url: llms/worky-llms.txt
+- type: Conformance
+  url: conformance/worky-conformance.yml
+- type: Compliance
+  url: https://www.worky.mx/politica-de-seguridad-de-la-informaci%C3%B3n
+- type: Security
+  url: https://www.worky.mx/politica-de-seguridad-de-la-informaci%C3%B3n
+- type: TrustCenter
+  url: security/worky-trust-center.yml
+- type: DomainSecurity
+  url: security/worky-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 6
+  pass: local-v1

@@ -1,0 +1,32 @@
+generated: '2026-07-21'
+method: searched
+note: Probe record — no /.well-known/ documents are published on any Worky host.
+  worky.mx 302-redirects all paths to www.worky.mx. The only discovery document
+  published is /llms.txt on www.worky.mx (served as HTML; captured in
+  llms/worky-llms.txt).
+hosts:
+- host: https://www.worky.mx
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /llms.txt
+    status: 200
+    file: ../llms/worky-llms.txt
+- host: https://api.worky.mx
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /openapi.json
+    status: 404
+  - path: /swagger.json
+    status: 404
