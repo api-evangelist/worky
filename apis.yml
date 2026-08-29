@@ -8,6 +8,17 @@ description: 'Worky is a Mexican HR and payroll SaaS platform for SMBs and mid-m
   (SophIA). Backed by QED Investors. Worky publishes no public developer API; its
   backend at api.worky.mx is a private JWT-authenticated service.'
 url: https://raw.githubusercontent.com/api-evangelist/worky/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
