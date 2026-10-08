@@ -56,3 +56,55 @@ plans:
 rate_limit_statements:
 - 'Licenciamiento mínimo: 30 colaboradores.'
 - Para planes de más de 1,000 colaboradores contáctanos para diseñar una propuesta a la medida.
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - subscription
+  units: []
+  plans:
+  - name: Core HR (siempre incluido)
+    access: other
+    model: subscription
+    model_how: derived
+    units:
+    - other
+    periods:
+    - month
+  - name: Super administrador
+    access: other
+    model: subscription
+    model_how: derived
+    units:
+    - other
+    periods:
+    - month
+  - name: Sistema de Nómina (módulo)
+    access: other
+    model: subscription
+    model_how: derived
+    units:
+    - other
+    periods:
+    - month
+  - name: Payroll Service (Maquila)
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods:
+    - none
+  - name: Pro
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods:
+    - none
+  - name: Pro Max
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods:
+    - none
