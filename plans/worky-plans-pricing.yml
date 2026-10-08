@@ -1,0 +1,58 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.worky.mx/precios-y-planes
+sources:
+- https://www.worky.mx/precios-y-planes
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: per-seat
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Simulador de precios por colaborador; ejemplo mostrado $8,199 /mes para la configuración por defecto.
+  Precios en MXN sin IVA; modalidad anual −15%. Planes de maquila se cotizan a la medida.
+plan_count: 6
+currency: MXN
+plans:
+- name: Core HR (siempre incluido)
+  price_text: $30
+  price: 30
+  currency: MXN
+  period: month
+  unit: Colaborador/mes
+  included_quota: directorio, expediente, organigrama, firma simple, incidencias y solicitudes, reportes
+    de caja y Worky SophIA
+- name: Super administrador
+  price_text: $299/mes
+  price: 299
+  currency: MXN
+  period: month
+  unit: por super administrador
+  included_quota: Todo plan necesita al menos uno
+- name: Sistema de Nómina (módulo)
+  price_text: $49
+  price: 49
+  currency: MXN
+  period: month
+  unit: colaborador/mes
+- name: Payroll Service (Maquila)
+  price_text: Cotizar Payroll Service
+  period: none
+  included_quota: Procesamiento y cálculo de nómina, timbrado, ISN, finiquitos, layout
+- name: Pro
+  price_text: Cotizar Pro
+  period: none
+  included_quota: Todo lo de Payroll Service más seguridad social e impuestos
+- name: Pro Max
+  price_text: Cotizar Pro Max
+  period: none
+  included_quota: Todo lo de Pro más dispersión y STPS
+rate_limit_statements:
+- 'Licenciamiento mínimo: 30 colaboradores.'
+- Para planes de más de 1,000 colaboradores contáctanos para diseñar una propuesta a la medida.
